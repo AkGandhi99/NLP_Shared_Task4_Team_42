@@ -1,0 +1,4 @@
+transformers==4.9.1
+datasets==1.10.2
+sentencepiece==0.1.97
+numpy==1.19.3
